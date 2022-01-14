@@ -6,3 +6,4 @@ This is a sample readme file
 
 Some new changes.
 A new line.
+This is bound to cause trouble!
