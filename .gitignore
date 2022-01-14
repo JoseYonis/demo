@@ -2,3 +2,4 @@
 *.orig
 *.md
 *.swp
+.DS_Store
